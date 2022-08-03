@@ -2,7 +2,7 @@
 
   (uuid 38475cda-1d3f-4f16-89ab-ea4574f878ae)
 
-  (paper "User" 299.999 299.999)
+  (paper "User" 281 299.999)
 
   (title_block
     (title "MIDI THRU Template Schematics")
@@ -896,7 +896,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0e6263ab-dcab-4bd9-80d0-5532f43acfc0)
   )
-  (polyline (pts (xy 124.46 105.41) (xy 287.02 105.41))
+  (polyline (pts (xy 124.46 105.41) (xy 267.97 105.41))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 17c33757-ddcb-4b9b-b9b7-7369f7ead042)
   )
@@ -986,7 +986,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 588f8ffa-469c-4ede-af19-3c8b94c2ec42)
   )
-  (polyline (pts (xy 124.46 184.15) (xy 287.02 184.15))
+  (polyline (pts (xy 124.46 184.15) (xy 267.97 184.15))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 598c869b-3a0c-4269-b950-10f0e849ae78)
   )
@@ -1020,7 +1020,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 7d15184d-ca33-4c36-ac1b-6c46b7871420)
   )
-  (polyline (pts (xy 124.46 246.38) (xy 287.02 246.38))
+  (polyline (pts (xy 124.46 246.38) (xy 267.97 246.38))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 864d91ee-3171-4e42-86a7-3039b963187d)
   )

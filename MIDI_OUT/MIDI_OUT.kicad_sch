@@ -2,7 +2,7 @@
 
   (uuid c4613748-69ba-4529-b31a-3b95824c60a5)
 
-  (paper "User" 299.999 340.995)
+  (paper "User" 275.996 340.995)
 
   (title_block
     (title "MIDI IN Template circuits ")
@@ -1002,7 +1002,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 55e45f14-aa79-4401-a90b-3b481af49d08)
   )
-  (polyline (pts (xy 124.46 285.75) (xy 265.43 285.75))
+  (polyline (pts (xy 124.46 285.75) (xy 264.16 285.75))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 57794e3b-ff09-4c26-8e5b-193317024662)
   )
@@ -1015,11 +1015,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 599ed4b9-dc90-440d-811e-f71f6196dcd3)
   )
-  (polyline (pts (xy 265.43 223.52) (xy 265.43 144.78))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 63fb2fc2-92e5-4b0d-bcb6-b1b2a59230e5)
-  )
-
   (wire (pts (xy 96.52 273.05) (xy 96.52 261.62))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 65cbc2c4-8f8b-4548-a7c1-85748ff25be1)
@@ -1056,11 +1051,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 816af236-9b3d-4588-ab9e-82170fd4ae13)
   )
-  (polyline (pts (xy 265.43 223.52) (xy 265.43 285.75))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 81dbd492-d508-4d46-b565-95aab01121c1)
-  )
-
   (wire (pts (xy 67.31 273.05) (xy 78.74 273.05))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 8392159c-4482-40dc-b4ab-56cd9ae249ca)
@@ -1151,7 +1141,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid d0453a15-a137-40ae-94c8-293e4ddfe5e9)
   )
-  (polyline (pts (xy 124.46 223.52) (xy 265.43 223.52))
+  (polyline (pts (xy 124.46 223.52) (xy 264.16 223.52))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid d06fbd46-c2c6-4f9f-b5ce-11d2e4fed950)
   )
@@ -1172,7 +1162,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid dee63bc4-9cca-463c-8bda-d4db2cf041d3)
   )
-  (polyline (pts (xy 265.43 144.78) (xy 124.46 144.78))
+  (polyline (pts (xy 264.16 144.78) (xy 124.46 144.78))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid e3034580-bda6-4b03-8bef-9c89c6354732)
   )
